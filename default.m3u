@@ -1,0 +1,7 @@
+#EXTM3U
+#EXT-X-APP APTV
+#EXT-X-APTV-TYPE remote
+#EXT-X-SUB-URL https://ghproxy.com/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/ya.m3u
+
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1076/84/3eb4c9c4877fc675df448a78bd768f_180_135.jpg?1549028836" group-title="Dota2", fy 
+http://al.flv.huya.com/src/1599196355-1599196355-6868496044607406080-3198516166-10057-A-0-1.flv?&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&t=103&sphd=264_*-265_*&exsphd=264_500,264_2000,264_4000,&sv=2110211124&sphdDC=huya&ver=1&wsSecret=921a4e0ad1e738dea59c97e3d4333c48&wsTime=64ea0e19&fs=bgct&ctype=tars_mobile&seqid=1694440355623930&uid=1466104808930&uuid=2133447590
